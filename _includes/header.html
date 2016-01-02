@@ -1,0 +1,24 @@
+<header>
+
+<!--    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>-->
+
+    <!--Sort pages by weight-->
+    {% assign pages = site.pages | sort:"weight"  %}
+
+    <div class="container">
+      <nav class="navbar navbar-inverse">
+        <div class="nav navbar-nav">
+          {% for my_page in pages %}
+            {% if my_page.title %}
+              <li class="nav-item">
+                <a class="glyphicon glyphicon-{{my_page.icon}}" class="nav-link"
+                    href="{{ my_page.url | prepend: site.baseurl }}"> {{ my_page.title }}
+                </a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </nav>
+    </div>
+
+</header>
