@@ -2,6 +2,12 @@
  * Created by ludovicl on 27/12/2015.
  */
 
+$(document).on('click','a.modal-link', function() {
+    console.log($('#myModal img'))
+    console.log('lol')
+    $('#myModal img').attr('src', $(this).attr('data-img-url'));
+});
+
 $(document).on('click', '.panel div.clickable', function () {
     var $this = $(this);
     if (!$this.hasClass('panel-collapsed')) {
@@ -17,14 +23,5 @@ $(document).on('click', '.panel div.clickable', function () {
 
 $(document).ready(function () {
     $('.panel div.clickable').click();
-});
-
-$("#pop").on("click", function() {
-    $('#imagepreview').attr('src', $('#imageresource').attr('src')); // here asign the image to the modal when the user click the enlarge link
-    $('#imagemodal').modal('show'); // imagemodal is the id attribute assigned to the bootstrap modal, then i use the show function
-});
-
-$('.modal-link').click(function (e) {
-    $('#myModal img').attr('src', $(this).attr('data-img-url'));
 });
 
