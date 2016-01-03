@@ -2,6 +2,9 @@ body {
     background-color: #e6e6e2;
 }
 
+.navbar{
+    margin-top: 10px;
+}
 .clickable
 {
     cursor: pointer;
@@ -25,10 +28,8 @@ a.clickable { color: inherit; }
 a.clickable:hover { text-decoration:none; }
 
 
+#myModal .modal-dialog  {width:70%;}
 
-div#myModal{
-    max-width:1200px;
-    max-height:1000px;
-    margin-left: auto;
-    margin-right: auto;
+h3, h4, h5, h6 {
+    color: rgba(23, 46, 23, 0.71);
 }
