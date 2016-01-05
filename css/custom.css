@@ -33,3 +33,8 @@ a.clickable:hover { text-decoration:none; }
 h3, h4, h5, h6 {
     color: rgba(23, 46, 23, 0.71);
 }
+
+hr.cv {
+    height: 2px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #959595 inset;}
