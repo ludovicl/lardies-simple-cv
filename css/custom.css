@@ -42,3 +42,9 @@ hr.cv {
     border: 0;
     box-shadow: 0 10px 10px -10px #959595 inset;
 }
+
+
+.post-content img{
+    width:340px; /* you can use % */
+    height: auto;
+}
