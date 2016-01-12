@@ -30,6 +30,9 @@ a.clickable:hover { text-decoration:none; }
 
 #myModal .modal-dialog  {width:70%;}
 
+h1{font-size: 28px;}
+h2{font-size: 26px;}
+h3{font-size: 22px;}
 h3, h4, h5, h6 {
     color: rgba(23, 46, 23, 0.71);
 }
@@ -37,4 +40,5 @@ h3, h4, h5, h6 {
 hr.cv {
     height: 2px;
     border: 0;
-    box-shadow: 0 10px 10px -10px #959595 inset;}
+    box-shadow: 0 10px 10px -10px #959595 inset;
+}
