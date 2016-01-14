@@ -48,3 +48,11 @@ hr.cv {
     width:340px; /* you can use % */
     height: auto;
 }
+
+.caption{
+    text-align: center;
+}
+
+.caption h3{
+    display:inline;
+}
