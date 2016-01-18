@@ -5,22 +5,35 @@ permalink: /projets
 icon: list
 weight : 3
 ---
+{{assign it_number = 3}}
+<script>
+    var windows_size = get_windows_size();
+    if (windows_size == 'xs')
+    {
+        {{it_number = 2}}
+    }
+</script>
+
 
 
 
 <div class="row">
-    {% for post in site.posts %}
-
+{% assign idx = 0 %}
+{% for post in site.posts %}
+    {% if idx == it_number %}
+        {% assign idx = 0 %}
+            </div>
+            <div class="row">
+    {% endif %}
     <div class="col-xs-6 col-md-4">
-            <a href="{{ post.url }}" class="thumbnail">
-                <div class="caption">
-                    <h3> <span class="label label-default">{{post.title}}</span></h3>
-                </div>
-                <img src="{{ post.thumbnail }}" alt="...">
-            </a>
+        <a href="{{ post.url }}" class="thumbnail">
+            <div class="caption">
+                <h4> <span class="label label-default">{{post.title}}</span></h4>
+            </div>
+            <img src="{{ post.thumbnail }}" alt="...">
+        </a>
     </div>
-
-    {% endfor %}
+    {% assign idx = idx | plus: 1 %}
+{% endfor %}
 </div>
-
 
