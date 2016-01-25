@@ -2,7 +2,7 @@
 layout: post
 title:  "GL40 Loi de fitt"
 categories: utbm
-thumbnail: images/projets/GL40Fitt.png
+thumbnail: /images/projets/GL40Fitt.png
 ---
 
 

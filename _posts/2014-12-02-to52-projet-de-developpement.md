@@ -2,7 +2,7 @@
 layout: post
 title:  "TO52 Projet de développement"
 categories: utbm
-thumbnail: images/projets/TO52-2.png
+thumbnail: /images/projets/TO52-2.png
 ---
 
 

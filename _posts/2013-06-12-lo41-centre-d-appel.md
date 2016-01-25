@@ -2,7 +2,7 @@
 layout: post
 title:  "LO41 centre d'appel"
 categories: utbm
-thumbnail: images/projets/lo41.png
+thumbnail: /images/projets/lo41.png
 ---
 
 

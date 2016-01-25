@@ -2,7 +2,7 @@
 layout: post
 title:  "LO43 Small World"
 categories: utbm
-thumbnail: images/projets/lo43.png
+thumbnail: /images/projets/lo43.png
 ---
 
 
