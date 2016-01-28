@@ -25,3 +25,12 @@ $(document).ready(function () {
     $('.panel div.clickable').click();
 });
 
+
+function get_windows_size(){
+    var size = 'md';
+
+    if ($(window).width() < 992) {
+        size = 'xs';
+    }
+    return size;
+}

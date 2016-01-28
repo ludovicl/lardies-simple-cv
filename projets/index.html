@@ -1,23 +1,9 @@
 ---
 layout: page
 title: Projets
-permalink: /projets
 icon: list
 weight : 3
 ---
-<!--<script>-->
-    <!--var it_number = 3;-->
-    <!--var windows_size = get_windows_size();-->
-    <!--if (windows_size == 'xs')-->
-    <!--{-->
-        <!--console.log('xs');-->
-        <!--it_number = 2;-->
-    <!--} else{-->
-    <!--}-->
-<!--</script>-->
-
-<!--{{#{it_number}}-->
-
 
 <div class="row">
 {% assign idx = 0 %}
@@ -39,29 +25,51 @@ weight : 3
 {% endfor %}
 </div>
 
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
+<div class="text-center">
+    <ul class="pagination pagination-lg">
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    {% if paginator.previous_page == 1 %}
+      <li><a href="{{ paginator.previous_page_path }}">&laquo;</a></li>
     {% else %}
-    <span>&laquo; Prev</span>
+      <li><a href="{{ paginator.previous_page_path }}">&laquo;</a></li>
+    {% endif %}
+    {% else %}
+     <li class="disabled"><a href="#">&laquo;</a></li>
     {% endif %}
 
-    {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-    <em>{{ page }}</em>
-    {% elsif page == 1 %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-    {% else %}
-    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
+    {% capture start %}{{ paginator.page | minus:3 }}{% endcapture %}
+    {% capture end %}{{ paginator.page | plus:3 }}{% endcapture %}
+
+    {% for count in (start..end) %}
+     {% if count > 0 and count <= paginator.total_pages %}
+       {% if count == paginator.page %}
+           <li class="active"><a href="#">{{count}}</a></li>
+       {% else %}
+         {% if count == 1 %}
+           <li><a href="/projets/">1</a></li>
+         {% else %}
+           <li>
+               <a href="{{ site.paginate_path | replace: ':num', count }}">
+                   {{count}}
+               </a>
+           </li>
+         {% endif %}
+       {% endif %}
+     {% endif %}
     {% endfor %}
 
     {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+     <li><a href="{{ paginator.next_page_path }}">&raquo;</a></li>
     {% else %}
-    <span>Next &raquo;</span>
+     <li class="disabled"><a href="#">&raquo;</a></li>
     {% endif %}
+    </ul>
 </div>
-{% endif %}
+
+
+
+
+
+
+
 

@@ -6,7 +6,7 @@ thumbnail: /images/projets/DragPress.png
 ---
 
 
-![Drag and Press](images/projets/DragPress.png)
+![Drag and Press](/images/projets/DragPress.png)
 
 Application libre développé initialement en **Python** permettant de publier sur un blog Wordpress directement avec un fichier **mardown** 
 
