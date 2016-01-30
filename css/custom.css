@@ -45,7 +45,7 @@ hr.cv {
 
 
 .post-content img{
-    width:340px; /* you can use % */
+    width:340px;
     height: auto;
 }
 
@@ -55,4 +55,12 @@ hr.cv {
 
 .caption h3{
     display:inline;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    background-color: #7d7d84;
+    border-color: #E6E6E2;
+}
+.pagination>li>a, .pagination>li>span {
+    color: #7D7D84;
 }

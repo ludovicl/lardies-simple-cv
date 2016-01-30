@@ -28,6 +28,12 @@ weight : 1
             <span class="glyphicon glyphicon-envelope"> Contactez-moi </span>
         </a>
     </p>
+
+
+    {% if site.twitter_username %}
+        {% include icon-twitter.html username=site.twitter_username %}
+    {% endif %}
+
 </div>
 </div>
 
