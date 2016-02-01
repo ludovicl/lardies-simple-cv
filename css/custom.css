@@ -64,3 +64,13 @@ hr.cv {
 .pagination>li>a, .pagination>li>span {
     color: #7D7D84;
 }
+
+ul.social-icons {
+    padding-top: 40px;
+}
+
+ul.social-icons li {
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+}
