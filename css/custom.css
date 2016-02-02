@@ -65,12 +65,39 @@ hr.cv {
     color: #7D7D84;
 }
 
-ul.social-icons {
-    padding-top: 40px;
+p.contact_me {
+    max-width: 500px;
+    margin: 0 auto;
 }
 
+ul.social-icons {
+    padding-top: 60px;
+    max-width: 300px; /* for  below IE7 use `width: 660px;` */
+    margin: 0 auto;
+}
 ul.social-icons li {
     list-style: none;
     display: inline-block;
     margin: 10px;
 }
+
+.site-footer {
+    display: block;
+    background-color: #f7f7f7;
+    border-top: 1px solid rgba(222,222,222,0.5);
+    padding: 1.5em;
+    text-align: center;
+}
+.site-footer p {
+    font-size: 15px;
+    letter-spacing: -.3px;
+    color: #828282;
+}
+.footer-heading {
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: -.5px;
+    margin-bottom: 15px;
+}
+
+
