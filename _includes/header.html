@@ -1,18 +1,19 @@
 <header>
   {% assign pages = site.pages | sort:"weight"  %}
   <nav class="navbar navbar-inverse">
-    <div class="nav navbar-nav" >
+    <ul class="nav navbar-nav" >
       {% for page in pages %}
         {% if page.title  %}
           {% unless page.url contains 'projets/page'%}
+
             <li class="nav-item">
-              <a class="glyphicon glyphicon-{{page.icon}}" class="nav-link"
+              <a class="glyphicon glyphicon-{{page.icon}}"
                   href="{{ page.url | prepend: site.baseurl }}"> {{ page.title }}
               </a>
             </li>
           {% endunless %}
         {% endif %}
       {% endfor %}
-    </div>
+    </ul>
   </nav>
 </header>

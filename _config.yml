@@ -8,7 +8,8 @@
 # Site settings
 title: Ludovic Lardies
 email: ludovic.lardies@icloud.com
-url: localhost:4000 # the base hostname & protocol for your site
+url: lardies.fr
+baseurl:
 paginate: 3
 paginate_path: /projets/page:num
 gems:
@@ -16,3 +17,8 @@ gems:
 
 # Build settings
 markdown: kramdown
+
+# Meta settigs
+keywords: Ruby on Rails, ROR, Python, CV, Résumé, Lardies, Ingénieur informatique, Paris
+author: Ludovic Lardies
+description: CV de Ludovic Lardies

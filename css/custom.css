@@ -70,15 +70,20 @@ p.contact_me {
     margin: 0 auto;
 }
 
-ul.social-icons {
-    padding-top: 60px;
+.social{
+    padding-top: 100px;
     max-width: 300px; /* for  below IE7 use `width: 660px;` */
     margin: 0 auto;
+    text-align: center;
 }
+
 ul.social-icons li {
-    list-style: none;
     display: inline-block;
     margin: 10px;
+}
+
+ul.social-icons {
+    padding-left: 0;
 }
 
 .site-footer {
@@ -89,11 +94,13 @@ ul.social-icons li {
     border-radius: 4px;
     text-align: center;
 }
+
 .site-footer p {
     font-size: 15px;
     letter-spacing: -.3px;
     color: #828282;
 }
+
 .footer-heading {
     font-size: 18px;
     font-weight: 300;
