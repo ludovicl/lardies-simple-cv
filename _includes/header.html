@@ -5,10 +5,10 @@
       {% for page in pages %}
         {% if page.title  %}
           {% unless page.url contains 'projets/page'%}
-
             <li class="nav-item">
               <a class="glyphicon glyphicon-{{page.icon}}"
-                  href="{{ page.url | prepend: site.baseurl }}"> {{ page.title }}
+                  href="{{ page.url | prepend: site.baseurl }}">
+                <span class="glyphicon-class">{{ page.title }}</span>
               </a>
             </li>
           {% endunless %}
