@@ -6,7 +6,7 @@ thumbnail: /images/projets/lo41.png
 ---
 
 
-![LO41 centre d'appel](images/projets/lo41.png)
+![LO41 centre d'appel](/images/projets/lo41.png)
 
 Projet réalisé dans le cadre de l'uv LO41 de mon cursus UTBM.
 

@@ -6,7 +6,7 @@ thumbnail: /images/projets/GL40Fitt.png
 ---
 
 
-![Loi de fitt](images/projets/GL40Fitt.png)
+![Loi de fitt](/images/projets/GL40Fitt.png)
 
 Projet réalisé dans le cadre de l'uv GL40 de mon cursus UTBM.
 

@@ -6,7 +6,7 @@ thumbnail: /images/projets/lo43.png
 ---
 
 
-![LO43 Small World](images/projets/lo43.png)
+![LO43 Small World](/images/projets/lo43.png)
 
 Projet réalisé dans le cadre de l'uv LO43 de mon cursus UTBM.
 

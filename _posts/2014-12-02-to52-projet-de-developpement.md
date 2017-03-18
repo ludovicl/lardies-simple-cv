@@ -6,8 +6,8 @@ thumbnail: /images/projets/TO52-2.png
 ---
 
 
-![Home Android application](images/projets/TO52-2.png)
-![Response Android application](images/projets/TO52-3.png)
+![Home Android application](/images/projets/TO52-2.png)
+![Response Android application](/images/projets/TO52-3.png)
 
 Projet réalisé pour le service de chirurgie cardiaque du **CHU de Strasbourg** dans le cadre de l'uv TO52 de mon cursus UTBM.
 

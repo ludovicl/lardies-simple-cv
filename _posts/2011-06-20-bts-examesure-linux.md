@@ -6,7 +6,7 @@ thumbnail: /images/projets/irisprojet.png
 ---
 
 
-![LO43 Small World](images/projets/irisprojet.png)
+![LO43 Small World](/images/projets/irisprojet.png)
 
 Projet de fin de BTS dont le but était de réaliser un programme d'étalonnage de sondes à partir d'un four Fluid200
 
