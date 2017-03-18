@@ -7,7 +7,8 @@
 
 # Site settings
 title: Ludovic Lardies
-email: ludovic.lardies@icloud.com
+email: ludovic.lrds@gmail.com
+source :/
 url: lardies.fr
 baseurl:
 paginate: 3
