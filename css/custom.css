@@ -28,7 +28,7 @@ a.clickable { color: inherit; }
 a.clickable:hover { text-decoration:none; }
 
 
-#myModal .modal-dialog  {width:70%;}
+#detailModal .modal-dialog  {width:70%;}
 
 h1{font-size: 28px;}
 h2{font-size: 26px;}
@@ -108,4 +108,38 @@ ul.social-icons {
     margin-bottom: 15px;
 }
 
+.glyph-font {
+  font-family: "monaco", "Consolas", "Lucida Console", monospace;
+}
 
+h1 {
+	font-family: monaco, Consolas, "Lucida Console", monospace;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+h2 {
+	font-family: monaco, Consolas, "Lucida Console", monospace;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 17.4px;
+}
+
+h3 {
+	font-family: monaco, Consolas, "Lucida Console", monospace;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+
+.panel-heading-custom {
+  background-color: #818784;
+  color: white;
+}

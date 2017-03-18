@@ -3,9 +3,7 @@
  */
 
 $(document).on('click','a.modal-link', function() {
-    console.log($('#myModal img'))
-    console.log('lol')
-    $('#myModal img').attr('src', $(this).attr('data-img-url'));
+    $('#detailModal img').attr('src', $(this).attr('data-img-url'));
 });
 
 $(document).on('click', '.panel div.clickable', function () {
