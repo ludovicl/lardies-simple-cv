@@ -34,5 +34,6 @@ Filière Ingénierie des logiciels et de la connaissance
 * Début 2015 -- MOOC de l’INRIA : [Web sémantique et Web de données](https://www.fun-mooc.fr/courses/inria/41002S02/session02/about). Réussi avec une note de 85%.
 
 ## Livres techs lus
-* [Ruby on Rails 5.0 for Autodidacts](http://amzn.to/2AzVuP8)
-* [Clean Code](http://amzn.to/2CwhCeR)
+* [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](http://amzn.to/2CwhCeR)
+* [Ruby on Rails 5.0 for Autodidacts: Learn Ruby 2.3 and Rails 5.0 - Stefan Wintermeyer](http://amzn.to/2AzVuP8)
+* [Apprenez à programmer en Python - Vincent Le Goff](http://amzn.to/2Azh9qL)
