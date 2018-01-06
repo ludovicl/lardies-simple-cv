@@ -30,6 +30,7 @@ Stage professionnel de longue dureée – cursus UTBM
 * Filière Ingénierie des logiciels et de la connaissance
 
 ## MOOC suivis
+* Fin 2017 -- MOOC de l'INRIA : [Programmation objet immersive en Pharo](https://www.fun-mooc.fr/courses/course-v1:inria+41010+session02)
 * Début 2016 -- MOOC de Université Paris-Sud : [Introduction à la statistique avec R](https://www.fun-mooc.fr/courses/UPSUD/42001S06/session06/about). Réussi avec une note de 73%.
 * Début 2015 -- MOOC de l’INRIA : [Web sémantique et Web de données](https://www.fun-mooc.fr/courses/inria/41002S02/session02/about). Réussi avec une note de 85%.
 
