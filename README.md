@@ -1,5 +1,6 @@
 Linkedin : (https://www.linkedin.com/in/lardies/)
-Contact : [ludoviclrds+cv@gmail.com](mailto:ludoviclrds+cv@gmail.com)
+
+Contact : [ludoviclrds+contact@gmail.com](mailto:ludoviclrds+contact@gmail.com)
 
 ## Expérience professionnelle
 
