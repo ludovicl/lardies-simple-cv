@@ -28,3 +28,8 @@ Stage professionnel de longue dureée – cursus UTBM
 ## Formation 
 ### École d'ingénieur en informatique -- [Université de Technologie de Belfort-Montbéliard(UTBM)](http://www.utbm.fr)
 Filière Ingénierie des logiciels et de la connaissance
+
+## MOOC suivis
+
+### Début 2016 MOOC de Université Paris-Sud
+[Introduction à la statistique avec R](https://www.fun-mooc.fr/courses/UPSUD/42001S06/session06/about) note de 73%
