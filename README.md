@@ -1,5 +1,7 @@
-[Mon linkedin](https://www.linkedin.com/in/lardies/) 
+[Mon linkedin](https://www.linkedin.com/in/lardies/)
+
 [Mon email](mailto:ludoviclrds+cv@gmail.com')
+
 ## Expérience professionnelle
 
 ### Depuis Juin 2017 - [Anatec/Wesave](https://www.wesave.fr) - Paris
