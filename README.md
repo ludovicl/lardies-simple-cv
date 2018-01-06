@@ -24,3 +24,7 @@ Stage de fin d'études - cursus UTBM
 Stage professionnel de longue dureée – cursus UTBM
 * Création d'un logiciel de test/validation pour la gestion de clés cryptographiques de sécurisation de paiements bancaires en Python
 * Développement en C/C++ pour l’embarqué
+
+## Formation 
+# École d'ingénieur en informatique -- [Université de Technologie de Belfort-Montbéliard(UTBM)](http://www.utbm.fr)
+Filière Ingénierie des logiciels et de la connaissance
