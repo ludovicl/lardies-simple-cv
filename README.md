@@ -24,7 +24,7 @@ Stage de fin d'études - cursus UTBM
 * Ruby on Rails pour le reporting client et Python/Flask pour le parsing
 * Base de données PostgreSQL pour la persistance
 
-### Septembre 2013 à Février 2014 - [Parkeon](http://parkeon.fr) @ Besançon (25)
+### Septembre 2013 à Février 2014 - [Parkeon](http://parkeon.fr) @ Besançon
 Stage professionnel de longue dureée – cursus UTBM
 * Création d'un logiciel de test/validation pour la gestion de clés cryptographiques de sécurisation de paiements bancaires en Python
 * Développement en C/C++ pour l’embarqué
