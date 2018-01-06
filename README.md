@@ -1,6 +1,6 @@
 ## Expérience professionnelle
 
-### Despuis Juin 2017 - [Anatec/Wesave](https://www.wesave.fr) - Paris
+### Depuis Juin 2017 - [Anatec/Wesave](https://www.wesave.fr) - Paris
 Développeur back-end
 * Development de fonctionnalités en Ruby on Rails 4.X et 5.X. Front en JQuery
 * TDD avec Rspec et Minitest. CI avec SemaphoreCI
