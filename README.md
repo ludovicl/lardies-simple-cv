@@ -30,11 +30,11 @@ Stage professionnel de longue dureée – cursus UTBM
 * Développement en C/C++ pour l’embarqué
 
 ## Formation 
-### 2012 à 2015 École d'ingénieur en informatique - [Université de Technologie de Belfort-Montbéliard(UTBM)](http://www.utbm.fr)
+### 2012 à 2015 - École d'ingénieur en informatique - [Université de Technologie de Belfort-Montbéliard(UTBM)](http://www.utbm.fr)
 * Filière Ingénierie des logiciels et de la connaissance
 
 ## MOOC suivis
-* Fin 2017 - MOOC de l'INRIA : [Programmation objet immersive en Pharo](https://www.fun-mooc.fr/courses/course-v1:inria+41010+session02)
+* Fin 2017 - MOOC de l'INRIA : [Programmation objet immersive en Pharo](https://www.fun-mooc.fr/courses/course-v1:inria+41010+session02). Réussi avec une note de 98%.
 * Début 2016 - MOOC de Université Paris-Sud : [Introduction à la statistique avec R](https://www.fun-mooc.fr/courses/UPSUD/42001S06/session06/about). Réussi avec une note de 73%.
 * Début 2015 - MOOC de l’INRIA : [Web sémantique et Web de données](https://www.fun-mooc.fr/courses/inria/41002S02/session02/about). Réussi avec une note de 85%.
 
