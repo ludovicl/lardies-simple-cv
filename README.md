@@ -26,5 +26,5 @@ Stage professionnel de longue dureée – cursus UTBM
 * Développement en C/C++ pour l’embarqué
 
 ## Formation 
-# École d'ingénieur en informatique -- [Université de Technologie de Belfort-Montbéliard(UTBM)](http://www.utbm.fr)
+### École d'ingénieur en informatique -- [Université de Technologie de Belfort-Montbéliard(UTBM)](http://www.utbm.fr)
 Filière Ingénierie des logiciels et de la connaissance
