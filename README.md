@@ -1,6 +1,6 @@
 [Mon linkedin](https://www.linkedin.com/in/lardies/)
 
-[Mon email](mailto:ludoviclrds+cv@gmail.com')
+[Mon email](mailto:ludoviclrds+cv@gmail.com)
 
 ## Expérience professionnelle
 
