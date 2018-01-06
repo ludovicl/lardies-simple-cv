@@ -1,4 +1,4 @@
-Linkedin : (https://www.linkedin.com/in/lardies/)
+Linkedin : [https://www.linkedin.com/in/lardies](https://www.linkedin.com/in/lardies)
 
 Contact : [ludoviclrds+contact@gmail.com](mailto:ludoviclrds+contact@gmail.com)
 
