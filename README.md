@@ -30,5 +30,9 @@ Stage professionnel de longue dureée – cursus UTBM
 Filière Ingénierie des logiciels et de la connaissance
 
 ## MOOC suivis
-* Début 2016 MOOC de Université Paris-Sud : [Introduction à la statistique avec R](https://www.fun-mooc.fr/courses/UPSUD/42001S06/session06/about). Réussi avec une note de 73%.
-* Début 2015 MOOC de l’INRIA : [Web sémantique et Web de données](https://www.fun-mooc.fr/courses/inria/41002S02/session02/about). Réussi avec une note de 85%.
+* Début 2016 -- MOOC de Université Paris-Sud : [Introduction à la statistique avec R](https://www.fun-mooc.fr/courses/UPSUD/42001S06/session06/about). Réussi avec une note de 73%.
+* Début 2015 -- MOOC de l’INRIA : [Web sémantique et Web de données](https://www.fun-mooc.fr/courses/inria/41002S02/session02/about). Réussi avec une note de 85%.
+
+## Livres techs lus
+* [Ruby on Rails 5.0 for Autodidacts](http://amzn.to/2AzVuP8)
+* [Clean Code](http://amzn.to/2CwhCeR)
